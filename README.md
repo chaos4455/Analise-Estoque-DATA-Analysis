@@ -1,7 +1,6 @@
 # 📊 Analise-Estoque-DATA-Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Pandas](https://img.shields.io/badge/Pandas-1.3.3-#150458)
 ![Plotly](https://img.shields.io/badge/Plotly-5.3.1-orange)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-violet)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-lightblue)
